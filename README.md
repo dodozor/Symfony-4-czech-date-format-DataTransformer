@@ -4,7 +4,7 @@
 Create new folder like src/Form/DataTransformer and copy both files to this folder.
 In your form type set date input like **use Symfony\Component\Form\Extension\Core\Type\TextType;** .
 
-We get data transform object:
+###### We get data transform object:
 
 ###### Nastavení:
 Vytvořte adresář v src/Form/DataTransformer a zkopírujte obsah gitu do tohoto adresáře.
